@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCBuilder", "IoCBuilder\IoCBuilder.csproj", "{B198F430-DA3B-49FA-917D-1374044809F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCBuilder.Tests", "IoCBuilder.Tests\IoCBuilder.Tests.csproj", "{F5DAFFA3-6A3E-4824-AF3F-F76DD554E076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B198F430-DA3B-49FA-917D-1374044809F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B198F430-DA3B-49FA-917D-1374044809F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B198F430-DA3B-49FA-917D-1374044809F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B198F430-DA3B-49FA-917D-1374044809F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DAFFA3-6A3E-4824-AF3F-F76DD554E076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DAFFA3-6A3E-4824-AF3F-F76DD554E076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DAFFA3-6A3E-4824-AF3F-F76DD554E076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DAFFA3-6A3E-4824-AF3F-F76DD554E076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

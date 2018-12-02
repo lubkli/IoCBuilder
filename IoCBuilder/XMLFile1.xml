@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="BuilderHasNoStrategies">
+    <value>Object builder has no strategies.</value>
+  </resheader>
+  <resheader name="BuilderStrategyTraceBuildUp">
+    <value>[{0}] {1} :: {2}</value>
+  </resheader>
+  <resheader name="BuilderStrategyTraceTearDown">
+    <value>[{0}] {1} :: {2}</value>
+  </resheader>
+  <resheader name="BuildUpFinished">
+    <value>[BuilderBase] Finished BuildUp on {0} with ID {1}</value>
+  </resheader>
+  <resheader name="BuildUpStarting">
+    <value>[BuilderBase] Starting BuildUp on {0} with ID {1}</value>
+  </resheader>
+  <resheader name="CallingConstructor">
+    <value>Calling constructor({0})</value>
+  </resheader>
+  <resheader name="CallingMethod">
+    <value>Calling method {0}({1})</value>
+  </resheader>
+  <resheader name="CallingOnBuiltUp">
+    <value>Calling IBuilderAware.OnBuiltUp()</value>
+  </resheader>
+  <resheader name="CallingOnTearingDown">
+    <value>Calling IBuilderAware.OnTearingDown()</value>
+  </resheader>
+  <resheader name="CallingProperty">
+    <value>Setting property {0}({1})</value>
+  </resheader>
+  <resheader name="CannotCreateInstanceOfType">
+    <value>Can not create an instance of type '{0}'.</value>
+  </resheader>
+  <resheader name="CannotExtractTypeFromBuildKey">
+    <value>Cannot extract type from BuildKey.</value>
+  </resheader>
+  <resheader name="CannotInjectReadOnlyProperty">
+    <value>In class '{0}', cannot inject value on property '{1}' because it is read-only.</value>
+  </resheader>
+  <resheader name="DependencyMissing">
+    <value>Could not locate dependency "{0=""}".</value>
+  </resheader>
+  <resheader name="InvalidAttributeCombination">
+    <value>Too many dependency injection attributes defined on {0}.{1}.</value>
+  </resheader>
+  <resheader name="InvalidEnumerationValue">
+    <value>Invalid enumeration value.</value>
+  </resheader>
+  <resheader name="KeyAlreadyPresentInDictionary">
+    <value>An item with the given key is already present in the dictionary.</value>
+  </resheader>
+  <resheader name="MissingCreationPolicy">
+    <value>Could not find creation policy for build key {0}.</value>
+  </resheader>
+  <resheader name="NoAppropriateConstructor">
+    <value>Could not find an appropriately matching constructor.</value>
+  </resheader>
+  <resheader name="ReflectedMember">
+    <value>Reflected member {0}</value>
+  </resheader>
+  <resheader name="SingletonRegistered">
+    <value>Registered as singleton</value>
+  </resheader>
+  <resheader name="SingletonReturned">
+    <value>Returning existing singleton</value>
+  </resheader>
+  <resheader name="TearDownFinished">
+    <value>[BuilderBase] Finished TearDown on {0}</value>
+  </resheader>
+  <resheader name="TearDownStarting">
+    <value>[BuilderBase] Starting TearDown on {0}</value>
+  </resheader>
+  <resheader name="TypeMapped">
+    <value>Mapped to {0} / {1}</value>
+  </resheader>
+  <resheader name="TypeNotCompatible">
+    <value>While resolving dependencies for {2}, the provided type {1} is not compatible with {0}.</value>
+  </resheader>
+</root>
